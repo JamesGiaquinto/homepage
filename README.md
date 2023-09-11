@@ -1,2 +1,1 @@
-# homepage
-testing platform for public pages
+# This is some text

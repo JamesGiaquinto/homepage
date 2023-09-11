@@ -1,1 +1,19 @@
-
+{
+    "data": [
+        {
+            "name": "Mleptromn",
+            "description": "Dangerous foe from the planet Mlep.",
+            "id": 704
+        },
+        {
+            "name": "Folturmpangn",
+            "description": "Agent and asset of Mleptromn",
+            "id": 241
+        },
+        {
+            "name": "Toorvo'cann",
+            "description": "Hero of the Melps, hapless do-gooder.",
+            "id": 2483
+        }        
+    ]
+}
