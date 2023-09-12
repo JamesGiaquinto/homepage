@@ -1,7 +1,3 @@
-# Heading One
-
-## Heading two
-
 This is some text
 ===========
 
